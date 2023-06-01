@@ -14,7 +14,7 @@ function Pessoa(){
     setInterval(function() {
         /*this*/self.idade++
         console.log(/*this*/self.idade)
-    }/*corrigindo com `BINd`*//*.bind(this)*/,1000)//Tempo que sera gerado os intervalo 1000Ms = 1s
+    }/*corrigindo com `BINd`.bind(this)*/,1000)//Tempo que sera gerado os intervalo 1000Ms = 1s
 }
 
 new Pessoa
