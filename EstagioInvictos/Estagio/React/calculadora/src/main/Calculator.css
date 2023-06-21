@@ -1,11 +1,8 @@
 .calculator {
-    /*Inteface*/
     height: 320px;
     width: 235px;
     border-radius: 5px;
-   
 
-    /*Botão*/ 
     overflow: hidden;
     display: grid;
     grid-template-columns: repeat(4,25%);
