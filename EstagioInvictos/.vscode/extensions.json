@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "ms-ceintl.vscode-language-pack-pt-br",
-        "formulahendry.code-runner"
+        "formulahendry.code-runner",
+        "steoates.autoimport"
     ]
 }
